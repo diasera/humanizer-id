@@ -5,6 +5,10 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/) dan
 
 ## [Unreleased]
 
+### Added
+- Dukungan **Hosted Remote MCP Server** publik di `https://humanizer-id.mbsc.my.id/mcp` (Streamable HTTP stateless, auto-sync file `.md` dari GitHub, 5 tools + Resources + Prompts).
+- Tampilan `README.md` baru yang lebih rapi: hero CTA, 3 contoh before/after, tabel level slang, panduan koneksi MCP (ChatGPT, Claude Code, Antigravity, Cursor), dan bagian Sponsor & Support.
+
 ## [2.0.0] - 2026-11-26
 
 ### Changed

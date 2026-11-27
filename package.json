@@ -10,7 +10,8 @@
     "bahasa-indonesia",
     "humanizer",
     "gen-z",
-    "writing"
+    "writing",
+    "mcp"
   ],
   "pi": {
     "skills": ["./"]

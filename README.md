@@ -1,86 +1,94 @@
 <div align="center">
 
-# ✍️ humanizer-id
+<a href="https://humanizer-id.mbsc.my.id">
+  <img src="assets/banner.svg" alt="humanizer-id — Bikin AI Nulis Bahasa Indonesia Santai ala Gen Z 2026" width="100%" />
+</a>
 
-**Humanizer versi Indonesia 🇮🇩 — skill & plugin AI agent multifungsi buat bikin tulisan bahasa Indonesia santai, natural, dan kekinian ala Gen Z 2026. Cocok buat cerita, sosmed, copywriting, chatbot, chat harian, artikel, sampai terjemahan. Santai, nggak kaku, dan konsisten.**
+<br><br>
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
-![Bahasa](https://img.shields.io/badge/bahasa-Indonesia-red.svg)
-![Format](https://img.shields.io/badge/format-SKILL.md-8A2BE2.svg)
-![Multi-Platform](https://img.shields.io/badge/platform-ChatGPT%20%7C%20Claude%20%7C%20Codex%20%7C%20Cursor%20%7C%20Antigravity%20%7C%20Pi-orange.svg)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+**Skill, Plugin & Hosted Remote MCP Server multifungsi — buat cerita/Wattpad, humanize teks AI, sosmed, copywriting, chatbot/CS, balas chat, artikel, sampai terjemahan gaul.**
 
-[Fitur](#-fitur) •
-[Mode](#-mode-yang-tersedia) •
-[Preview](#-preview) •
-[Cara Pakai](#-cara-pakai) •
-[Contoh Prompt](#-contoh-prompt) •
-[Kontribusi](#-kontribusi) •
-[Lisensi](#-lisensi)
+<p>
+  <a href="https://humanizer-id.mbsc.my.id"><img src="https://img.shields.io/badge/Live%20Website%20%26%20Demo-humanizer--id.mbsc.my.id-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Website & Demo"></a>
+  <a href="https://github.com/diasera/humanizer-id/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-main.zip-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"></a>
+  <a href="#-sponsor--support"><img src="https://img.shields.io/badge/Sponsor-Support%20Project-EC4899?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"></a>
+</p>
+
+<p>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?style=flat-square" alt="Version 2.0.0">
+  <img src="https://img.shields.io/badge/bahasa-Indonesia-red.svg?style=flat-square" alt="Bahasa Indonesia">
+  <img src="https://img.shields.io/badge/format-SKILL.md%20%2B%20MCP-8A2BE2.svg?style=flat-square" alt="SKILL.md + MCP">
+  <img src="https://img.shields.io/badge/platform-ChatGPT%20%7C%20Claude%20%7C%20Codex%20%7C%20Cursor%20%7C%20Antigravity%20%7C%20Pi-orange.svg?style=flat-square" alt="Multi-Platform">
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
+
+<p>
+  <a href="#-lihat-bedanya">Lihat Bedanya</a> •
+  <a href="#-live-hosted-mcp-server">MCP Server</a> •
+  <a href="#-fitur-utama">Fitur</a> •
+  <a href="#-8-mode-siap-pakai">8 Mode</a> •
+  <a href="#-cara-pakai">Cara Pakai</a> •
+  <a href="#-contoh-prompt">Prompt</a> •
+  <a href="#-sponsor--support">Sponsor</a> •
+  <a href="#-lisensi">Lisensi</a>
+</p>
 
 </div>
 
 ---
 
-## 🤔 Ini Apa?
+> [!TIP]
+> **⚡ Coba langsung di browser tanpa install apa-apa!**
+> - 🌐 **Website & Live Playground:** **[humanizer-id.mbsc.my.id](https://humanizer-id.mbsc.my.id)** *(langsung tes Cek Konsistensi & Kamus Slang real-time!)*
+> - 🔌 **Remote MCP Endpoint:** `https://humanizer-id.mbsc.my.id/mcp`
+> - 📦 **Download ZIP siap upload:** **[humanizer-id (main.zip)](https://github.com/diasera/humanizer-id/archive/refs/heads/main.zip)**
 
-`humanizer-id` adalah **skill & plugin siap pakai** buat berbagai AI agent — ChatGPT, Claude, Codex, Cursor, Google Antigravity, Pi, Gemini, dan agent lain yang bisa baca `SKILL.md`.
+---
 
-Pernah nyuruh AI nulis sesuatu terus hasilnya kayak gini?
+## 🤔 Kenapa `humanizer-id`?
+
+Pernah nyuruh AI nulis teks bahasa Indonesia terus hasilnya kayak gini?
 
 > *"Dalam era digital yang terus berkembang pesat ini, penting bagi kita untuk memahami bahwa manajemen waktu merupakan kunci utama kesuksesan."*
 
-Kaku. Lebay. Kerasa banget AI-nya. 😮‍💨
+Kaku. Lebay. Kerasa banget tulisan robotnya. 😮‍💨
 
-Skill ini ngajarin agent buat nulis kayak **anak umur 20-25 tahun yang lagi ngobrol**: pakai bahasa sehari-hari, slang Gen Z yang pas, dan yang paling penting, **gayanya nggak berubah-ubah** dari awal sampai akhir.
+**`humanizer-id`** ngajarin AI (ChatGPT, Claude, Gemini, Codex, Cursor, Antigravity, Pi, dll) buat nulis kayak **anak muda Indonesia umur 20–25 tahun yang lagi ngobrol** — santai, nggak alay, peka konteks, dan yang paling penting: **gayanya konsisten dari awal sampai akhir.**
 
-Bedanya sama skill "humanizer" biasa: `humanizer-id` **multifungsi**. Satu inti aturan, **8 mode** buat kebutuhan yang beda-beda. Bisa buat nulis novel, caption IG, deskripsi produk, persona CS, sampai balas chat.
-
----
-
-## ✨ Fitur
-
-| | Fitur | Penjelasan |
-|---|---|---|
-| 🔌 | **Multi-Platform & Siap Upload ZIP** | Satu repo jalan di ChatGPT, Claude, Codex, Cursor, Antigravity, Pi, dan agent lain — tinggal download ZIP dari GitHub dan langsung upload. |
-| 🧩 | **8 Mode** | Cerita, humanizer, sosmed, copywriting, chatbot, chat harian, artikel, terjemahan. Tiap mode punya default, contoh, dan checklist sendiri. |
-| 🔒 | **Tone Lock** | Kartu gaya (kata ganti, level slang, ejaan, emoji) yang dikunci dari awal biar konsisten. |
-| 🎚️ | **4 Level Slang (0–3)** | Dari santai sopan sampai full Gen Z, otomatis turun di topik serius. |
-| 📖 | **Kamus Slang 2026** | 100+ istilah dengan arti, contoh, dan label umur kata (🟢 evergreen, 🟡 umum, 🔴 tren, ⚫ kasar). |
-| 💬 | **Singkatan dan Gaya Chat** | `yg`, `bgt`, `ngl`, `fr`, `ygy`, sampai arti emoji 😭💀, plus aturan kapan boleh dipakai per mode. |
-| 🫶 | **Peka Konteks** | Duka, komplain, urusan duit, atau ngomong ke atasan? Slang otomatis diturunin. |
-| 🚫 | **Anti-Pattern** | Daftar frasa klise "AI banget" dan cara gantinya. |
-| ✅ | **Checklist** | Checklist umum + checklist per mode buat ngecek hasil. |
-| 🤖 | **Multi-Agent Ready** | Peran penulis, editor, reviewer, dan format output yang seragam. |
+Bukan cuma buat satu hal: **1 inti aturan, 8 mode penulisan, 4 level slang, plus Live Remote MCP Server** yang selalu otomatis sinkron sama update terbaru repo ini.
 
 ---
 
-## 🧩 Mode yang Tersedia
+## 👀 Lihat Bedanya
 
-| Mode | Buat apa | File | Contoh pemakaian |
-|---|---|---|---|
-| 📚 **Cerita** | Novel, Wattpad, cerbung, fanfic, AU | [cerita.md](modes/cerita.md) | "Tulis bab 1 romcom kampus, POV gue." |
-| 🧑‍💻 **Humanizer** | Ubah teks kaku/kerasa AI jadi natural | [humanizer.md](modes/humanizer.md) | "Ubah paragraf ini biar nggak kaku." |
-| 📱 **Sosmed** | Caption IG/TikTok, thread, script video | [sosmed.md](modes/sosmed.md) | "Bikin caption buat kafe baru." |
-| 🛍️ **Copywriting** | Iklan, promo, deskripsi produk, push notif | [copywriting.md](modes/copywriting.md) | "Deskripsi tas ransel buat marketplace." |
-| 🤖 **Chatbot** | Persona chatbot dan customer service | [chatbot.md](modes/chatbot.md) | "Bikin persona CS yang ramah buat toko online." |
-| 💬 **Chat harian** | Balas WA, DM, komen | [chat-harian.md](modes/chat-harian.md) | "Bantuin nolak ajakan nongki dengan halus." |
-| 📰 **Artikel** | Blog, artikel, newsletter | [artikel.md](modes/artikel.md) | "Artikel tips hemat anak kos." |
-| 🌐 **Terjemahan** | Teks baku/Inggris → bahasa gaul | [terjemahan.md](modes/terjemahan.md) | "Terjemahin pengumuman ini jadi gaul." |
-
-Aturan inti, ejaan, level slang, dan checklist umum ada di [SKILL.md](SKILL.md). Daftar kata dan singkatan ada di [references/kamus-slang.md](references/kamus-slang.md).
-
----
-
-## 👀 Preview
-
-### Mode Cerita
+### 1. Mode Humanizer (Teks AI Kaku → Natural)
 
 <table>
 <tr>
-<th width="50%">❌ Sebelum (kaku)</th>
-<th width="50%">✅ Sesudah (pakai skill ini)</th>
+<th width="50%">❌ Sebelum (kerasa AI banget)</th>
+<th width="50%">✅ Sesudah (<code>humanizer-id</code> level 1)</th>
+</tr>
+<tr>
+<td valign="top">
+
+Dalam era digital yang terus berkembang pesat ini, penting bagi kita untuk memahami bahwa manajemen waktu merupakan kunci utama dalam mencapai produktivitas yang optimal. Dengan menerapkan strategi yang tepat, kita dapat menyelesaikan berbagai tugas secara efisien dan efektif.
+
+</td>
+<td valign="top">
+
+Kalau waktu kamu berantakan, kerjaan ikut berantakan. Makanya ngatur waktu itu penting banget. Tentuin dulu mana yang paling mendesak, kerjain satu-satu, dan sisain waktu buat istirahat.
+
+</td>
+</tr>
+</table>
+
+### 2. Mode Cerita / Wattpad / Novel
+
+<table>
+<tr>
+<th width="50%">❌ Sebelum (kaku & klise)</th>
+<th width="50%">✅ Sesudah (<code>humanizer-id</code> level 2)</th>
 </tr>
 <tr>
 <td valign="top">
@@ -100,22 +108,22 @@ Gue lempar HP ke kasur, terus narik selimut sampai nutup muka. Di luar cerah ban
 </tr>
 </table>
 
-### Mode Humanizer
+### 3. Mode Chatbot / Customer Service (Level 0 — Santai Sopan)
 
 <table>
 <tr>
-<th width="50%">❌ Sebelum (kerasa AI)</th>
-<th width="50%">✅ Sesudah (level 1)</th>
+<th width="50%">❌ Sebelum (robotik kaku)</th>
+<th width="50%">✅ Sesudah (<code>humanizer-id</code> level 0)</th>
 </tr>
 <tr>
 <td valign="top">
 
-Dalam era digital yang terus berkembang pesat ini, penting bagi kita untuk memahami bahwa manajemen waktu merupakan kunci utama dalam mencapai produktivitas yang optimal. Dengan menerapkan strategi yang tepat, kita dapat menyelesaikan berbagai tugas secara efisien dan efektif.
+Mohon maaf atas ketidaknyamanan yang Anda alami. Kami akan segera menindaklanjuti kendala keterlambatan pengiriman paket Anda sesuai dengan prosedur yang berlaku.
 
 </td>
 <td valign="top">
 
-Kalau waktu kamu berantakan, kerjaan ikut berantakan. Makanya ngatur waktu itu penting banget. Tentuin dulu mana yang paling mendesak, kerjain satu-satu, dan sisain waktu buat istirahat.
+Maaf banget ya Kak paketnya telat nyampe. Boleh kirim nomor pesanannya dulu? Aku bantu cek langsung ke ekspedisinya sekarang.
 
 </td>
 </tr>
@@ -123,24 +131,130 @@ Kalau waktu kamu berantakan, kerjaan ikut berantakan. Makanya ngatur waktu itu p
 
 ---
 
+## 🔌 Live Hosted MCP Server
+
+**`humanizer-id` support MCP (Model Context Protocol)!** Kamu bisa langsung pakai server MCP publik kami tanpa perlu download file, tanpa ribet setup, dan **selalu otomatis dapet update `.md` & kamus slang terbaru** dari GitHub:
+
+| Info | Detail |
+|---|---|
+| **Endpoint MCP** | `https://humanizer-id.mbsc.my.id/mcp` |
+| **Transport** | Streamable HTTP (stateless) |
+| **Autentikasi** | Tanpa auth (publik & gratis dipakai) |
+| **Status / Health** | [`https://humanizer-id.mbsc.my.id/health`](https://humanizer-id.mbsc.my.id/health) |
+
+### 🧰 Tools MCP yang Tersedia
+
+| Tool | Fungsi |
+|---|---|
+| `get_core_rules` | Ambil panduan inti `SKILL.md` versi terbaru (Tone Lock, ejaan terkunci, level slang, anti-pattern) |
+| `list_modes` | Lihat semua mode yang tersedia (otomatis mendeteksi mode baru) |
+| `get_mode` | Ambil aturan lengkap mode tertentu + inti `SKILL.md` dalam sekali panggil |
+| `get_slang_dictionary` | Ambil atau cari kata tertentu di kamus slang & singkatan Gen Z 2026 |
+| `check_consistency` | Cek otomatis campuran `nggak`/`gak`/`tidak`, `udah`/`sudah`, frasa klise AI, slang basi, dan singkatan nyasar |
+
+*(Juga menyediakan MCP Resources `humanizer-id://skill`, `humanizer-id://kamus-slang`, `humanizer-id://mode/{name}` dan MCP Prompts `humanize_teks` & `tulis_gaya_genz`.)*
+
+### ⚡ Cara Sambungin MCP
+
+#### ChatGPT Web (`chatgpt.com/plugins`)
+1. Buka **Plugins** (`chatgpt.com/plugins`) → klik **Tambahkan** → **Tambahkan server MCP kustom** *(atau lewat **Settings → Apps & Connectors → Developer Mode**)*.
+2. Masukin URL:
+   ```text
+   https://humanizer-id.mbsc.my.id/mcp
+   ```
+3. Tipe: **Streamable HTTP** · Autentikasi: **None** → **Simpan**.
+
+#### Claude Code
+```bash
+claude mcp add --transport http humanizer-id https://humanizer-id.mbsc.my.id/mcp
+```
+
+#### Google Antigravity / Cursor / Claude Desktop / Client MCP lain
+Tambahin ke file konfigurasi MCP kamu:
+```json
+{
+  "mcpServers": {
+    "humanizer-id": {
+      "url": "https://humanizer-id.mbsc.my.id/mcp"
+    }
+  }
+}
+```
+
+---
+
+## ✨ Fitur Utama
+
+| | Fitur | Penjelasan |
+|---|---|---|
+| 🔌 | **Hosted MCP + Plugin + Skill** | Bisa dipakai lewat Remote MCP (`humanizer-id.mbsc.my.id/mcp`), upload `main.zip`, atau CLI di berbagai platform AI. |
+| 🧩 | **8 Mode Penulisan** | Cerita, humanizer, sosmed, copywriting, chatbot, chat harian, artikel, terjemahan — tiap mode punya aturan & checklist sendiri. |
+| 🔒 | **Tone Lock** | Kartu gaya (kata ganti, level slang, ejaan, emoji) yang dikunci dari awal biar nggak berubah-ubah di tengah jalan. |
+| 🎚️ | **4 Level Slang (0–3)** | Dari *Santai Sopan* (CS/klien/atasan) sampai *Full Gen Z* — otomatis turun saat bahas topik serius. |
+| 📖 | **Kamus Slang 2026** | 100+ istilah + singkatan chat dengan label umur kata (🟢 evergreen, 🟡 umum, 🔴 tren, ⚫ kasar). |
+| 🫶 | **Peka Konteks** | Duka, komplain, urusan duit, atau ngomong ke atasan? Slang otomatis diturunin, nol bercanda. |
+| 🚫 | **Anti-Pattern AI** | Daftar frasa klise "AI banget" (fiksi & non-fiksi) lengkap sama cara gantinya. |
+| ✅ | **Auto-Check Konsistensi** | Checklist per mode + tool MCP `check_consistency` buat ngecek hasil tulisan. |
+| 🤖 | **Multi-Agent Ready** | Peran penulis, editor gaya, reviewer konsistensi, dan aturan prioritas yang jelas. |
+
+---
+
+## 🧩 8 Mode Siap Pakai
+
+| Mode | Buat apa | Level Default | File | Contoh Pemakaian |
+|---|---|---:|---|---|
+| 📚 **Cerita** | Novel, Wattpad, cerbung, fanfic, AU | `2` | [cerita.md](modes/cerita.md) | *"Tulis bab 1 romcom kampus, POV gue."* |
+| 🧑‍💻 **Humanizer** | Ubah teks kaku/kerasa AI jadi natural | `1` | [humanizer.md](modes/humanizer.md) | *"Ubah paragraf ini biar nggak kaku."* |
+| 📱 **Sosmed** | Caption IG/TikTok, thread, script video | `2` | [sosmed.md](modes/sosmed.md) | *"Bikin caption buat kafe baru di Bandung."* |
+| 🛍️ **Copywriting** | Iklan, promo, deskripsi produk, push notif | `1` | [copywriting.md](modes/copywriting.md) | *"Deskripsi tas ransel buat marketplace."* |
+| 🤖 **Chatbot / CS** | Persona chatbot dan customer service | `0–1` | [chatbot.md](modes/chatbot.md) | *"Bikin persona CS ramah buat toko skincare."* |
+| 💬 **Chat Harian** | Balas WA, DM, komen netizen | `mirror` | [chat-harian.md](modes/chat-harian.md) | *"Bantuin nolak ajakan nongki dengan halus."* |
+| 📰 **Artikel** | Blog, artikel, newsletter | `1` | [artikel.md](modes/artikel.md) | *"Artikel tips hemat anak kos 600 kata."* |
+| 🌐 **Terjemahan** | Teks baku / Inggris → bahasa gaul | `2` | [terjemahan.md](modes/terjemahan.md) | *"Terjemahin dialog film ini jadi gaul."* |
+
+### 🎚️ 4 Level Slang
+
+| Level | Nama | Cocok Buat | Contoh Rasa |
+|---:|---|---|---|
+| **0** | Santai Sopan | CS, klien, dosen, atasan, ortu, topik sensitif | *"Maaf ya Kak, aku bantu cek sekarang."* |
+| **1** | Santai Ringan | Artikel, copywriting, humanizer, romance kalem | *"Kalau waktunya berantakan, kerjaan ikut keteteran."* |
+| **2** | Gaul Natural ⭐ | Sosmed, Wattpad, romcom, chat temen | *"Jujur aja, vibes-nya udah red flag sih."* |
+| **3** | Full Gen Z | Komedi chaos, AU/chat, komunitas anak muda | *"Anjir dia bales oke doang gue udah delulu."* |
+
+Aturan inti ada di [SKILL.md](SKILL.md), kamus lengkap & singkatan ada di [references/kamus-slang.md](references/kamus-slang.md).
+
+---
+
 ## 🚀 Cara Pakai
 
-### Download ZIP langsung (ChatGPT Plugins / Skills, Claude.ai / Desktop)
+Selain pakai **[Live Hosted MCP Server](#-live-hosted-mcp-server)** (`https://humanizer-id.mbsc.my.id/mcp`), kamu juga bisa pasang sebagai **Plugin** atau **Skill lokal**:
 
-Download ZIP langsung dari GitHub:
+<details open>
+<summary><b>📦 Download ZIP langsung (ChatGPT Plugins / Skills, Claude.ai / Desktop)</b></summary>
 
-👉 **[Download humanizer-id (main.zip)](https://github.com/diasera/humanizer-id/archive/refs/heads/main.zip)**
+<br>
 
-Langsung upload file `.zip` itu ke menu **Plugins** atau **Skills** di ChatGPT / Claude. Karena `SKILL.md`, `modes/`, `references/`, dan `.claude-plugin/plugin.json` ada di root repo, semuanya otomatis kebaca.
+1. Download ZIP langsung dari GitHub: 👉 **[humanizer-id (main.zip)](https://github.com/diasera/humanizer-id/archive/refs/heads/main.zip)**
+2. Langsung upload file `.zip` itu ke menu **Plugins** atau **Skills** di ChatGPT / Claude. Karena `SKILL.md`, `modes/`, `references/`, dan `.claude-plugin/plugin.json` ada di root repo, semuanya otomatis kebaca.
 
-### Claude Code
+</details>
+
+<details>
+<summary><b>⚡ Claude Code (Plugin Marketplace)</b></summary>
+
+<br>
 
 ```bash
 /plugin marketplace add diasera/humanizer-id
 /plugin install humanizer-id@humanizer-id
 ```
 
-### Skills CLI (Codex, Claude Code, Cursor, Antigravity, semua agent)
+</details>
+
+<details>
+<summary><b>🛠️ Skills CLI (Codex, Claude Code, Cursor, Antigravity, semua agent)</b></summary>
+
+<br>
 
 ```bash
 npx skills add diasera/humanizer-id
@@ -152,78 +266,70 @@ Atau install global ke semua agent yang terdeteksi:
 npx skills add diasera/humanizer-id --global --agent '*'
 ```
 
-### Cursor
+</details>
 
-Repo ini udah dilengkapi `.cursor-plugin/plugin.json` yang langsung baca `SKILL.md` di root. Bisa dipasang lewat `npx skills add diasera/humanizer-id` atau clone ke folder skill Cursor kamu.
+<details>
+<summary><b>🪐 Google Antigravity / Cursor / Pi / Custom GPT & Gems</b></summary>
 
-### Google Antigravity
+<br>
 
-Clone atau copy seluruh isi repo ke folder skill workspace kamu:
-
-```bash
-git clone https://github.com/diasera/humanizer-id.git .agents/skills/humanizer-id
-```
-
-### Pi coding agent
-
-```bash
-pi install git:github.com/diasera/humanizer-id
-```
-
-### Custom GPT / Gemini Gems / Claude Projects
-
-Download dan ekstrak ZIP repo, lalu upload `SKILL.md`, semua file di `modes/`, dan `references/kamus-slang.md` sebagai **knowledge file** (atau copy-paste `SKILL.md` ke **instructions** dan upload sisanya sebagai knowledge).
-
-### Manual
-
-```bash
-git clone https://github.com/diasera/humanizer-id.git
-```
+- **Google Antigravity:**
+  ```bash
+  git clone https://github.com/diasera/humanizer-id.git .agents/skills/humanizer-id
+  ```
+- **Cursor:** Repo ini udah dilengkapi `.cursor-plugin/plugin.json` yang langsung baca `SKILL.md` di root.
+- **Pi coding agent:**
+  ```bash
+  pi install git:github.com/diasera/humanizer-id
+  ```
+- **Custom GPT / Gemini Gems / Claude Projects:** Download & ekstrak ZIP, lalu upload `SKILL.md`, semua file di `modes/`, dan `references/kamus-slang.md` sebagai **knowledge file**.
 
 > [!IMPORTANT]
-> Pastiin folder `modes/` dan `references/` selalu ikut bareng `SKILL.md`, jangan cuma copy `SKILL.md` doang.
+> Kalau pasang manual, pastiin folder `modes/` dan `references/` selalu ikut bareng `SKILL.md`.
+
+</details>
 
 ---
 
 ## 💡 Contoh Prompt
 
 ```text
-[Cerita] Pakai skill humanizer-id. Tulis bab 1 cerita romcom kampus, POV gue,
+[Cerita] Pakai humanizer-id. Tulis bab 1 cerita romcom kampus, POV gue,
 enemies to lovers, level slang 2, sekitar 1.500 kata.
 ```
 
 ```text
-[Humanizer] Pakai skill humanizer-id. Ubah teks ini biar nggak kaku dan nggak
-kerasa AI, jangan ubah isinya: [tempel teks]
+[Humanizer] Pakai humanizer-id. Ubah teks ini biar nggak kaku dan nggak
+kerasa AI, jangan ubah faktanya: [tempel teks]
 ```
 
 ```text
-[Sosmed] Pakai skill humanizer-id. Bikin caption IG buat kafe baru buka di
+[Sosmed] Pakai humanizer-id. Bikin caption IG buat kafe baru buka di
 Bandung, tone santai, ada CTA, 4 hashtag.
 ```
 
 ```text
-[Copywriting] Pakai skill humanizer-id. Tulis deskripsi produk tas ransel anti
+[Copywriting] Pakai humanizer-id. Tulis deskripsi produk tas ransel anti
 air 20 liter buat marketplace, tone santai tapi tetap jujur.
 ```
 
 ```text
-[Chatbot] Pakai skill humanizer-id. Bikin persona chatbot CS toko skincare:
+[Chatbot] Pakai humanizer-id. Bikin persona chatbot CS toko skincare:
 ramah, panggil user "Kak", dan tau kapan harus serius.
 ```
 
 ```text
-[Chat harian] Pakai skill humanizer-id. Bantuin bales chat temen yang ngajak
+[Chat harian] Pakai humanizer-id. Bantuin bales chat temen yang ngajak
 nongki malam ini, padahal gue capek. Kasih 3 opsi.
 ```
 
 ```text
-[Artikel] Pakai skill humanizer-id. Tulis artikel blog 600 kata soal tips hemat
+[Artikel] Pakai humanizer-id. Tulis artikel blog 600 kata soal tips hemat
 anak kos, gaya santai tapi informatif.
 ```
 
 ```text
-[Terjemahan] Pakai skill humanizer-id. Terjemahin teks ini ke bahasa Indonesia
+[Terjemahan] Pakai humanizer-id. Terjemahin teks ini ke bahasa Indonesia
 gaul (level 2), nama dan angka jangan berubah: [tempel teks]
 ```
 
@@ -231,7 +337,10 @@ gaul (level 2), nama dan angka jangan berubah: [tempel teks]
 
 ## 📂 Struktur Repo
 
-```
+<details>
+<summary><b>Klik buat liat struktur folder & daftar isi <code>SKILL.md</code></b></summary>
+
+```text
 humanizer-id/
 ├── SKILL.md                          # inti skill + pilih mode (source of truth)
 ├── modes/
@@ -252,6 +361,8 @@ humanizer-id/
 │   └── plugin.json                   # manifest plugin Cursor
 ├── agents/
 │   └── openai.yaml                   # metadata OpenAI / Codex
+├── assets/
+│   └── banner.svg                    # banner repo GitHub
 ├── package.json                      # manifest paket Pi
 ├── README.md                         # yang lagi kamu baca
 ├── CONTRIBUTING.md                   # cara nambah slang / mode
@@ -259,28 +370,35 @@ humanizer-id/
 └── LICENSE                           # MIT
 ```
 
----
-
-## 📚 Isi Skill
-
-<details>
-<summary><b>Klik buat liat daftar isi lengkap <code>SKILL.md</code></b></summary>
-
-1. Cara Kerja
-2. Pilih Mode
-3. Aturan Emas
-4. Tone Lock
-5. Level Slang
-6. Ejaan Santai yang Udah Dikunci
-7. Partikel Bahasa Lisan
-8. Campur Bahasa Inggris
-9. Kamus Slang dan Singkatan
-10. Peka Konteks
-11. Anti-Pattern Umum
-12. Checklist Umum
-13. Kerja Bareng Banyak Agent
+**Daftar isi `SKILL.md`:**
+1. Cara Kerja · 2. Pilih Mode · 3. Aturan Emas · 4. Tone Lock · 5. Level Slang · 6. Ejaan Santai yang Udah Dikunci · 7. Partikel Bahasa Lisan · 8. Campur Bahasa Inggris · 9. Kamus Slang dan Singkatan · 10. Peka Konteks · 11. Anti-Pattern Umum · 12. Checklist Umum · 13. Kerja Bareng Banyak Agent
 
 </details>
+
+---
+
+## 💖 Sponsor & Support
+
+`humanizer-id` — termasuk **Live Hosted MCP Server** di `humanizer-id.mbsc.my.id` — dibikin gratis dan open-source (MIT) biar bisa dipakai siapa aja, termasuk buat proyek komersial.
+
+Kalau proyek ini ngebantu kerjaan, konten, atau bisnis kamu, kamu bisa ikut dukung keberlanjutan server & update kamus slang-nya:
+
+| Jalur Dukungan | Yang Kamu Dapat |
+|---|---|
+| ⭐ **Star & Share** *(Gratis)* | Bantu makin banyak kreator & developer Indonesia nemu repo ini! |
+| ☕ **Individual Supporter** | Nama / link GitHub kamu tampil di daftar pendukung & bantu biaya domain + maintenance MCP server. |
+| 🚀 **Brand / Commercial Sponsor** | Logo & link brand tampil di bagian atas README, prioritas request mode / kamus baru, dan bisa diskusi setup dedicated MCP / custom brand voice buat tim kamu. |
+
+### 🏆 Sponsors
+
+<div align="center">
+
+*Belum ada sponsor — **jadi sponsor pertama `humanizer-id`!** ✨*
+
+Tertarik jadi sponsor, kolaborasi, atau butuh custom brand voice / dedicated MCP buat bisnis kamu?<br>
+**[📩 Hubungi lewat GitHub Issues](https://github.com/diasera/humanizer-id/issues/new?title=Sponsorship%20%2F%20Kolaborasi%20humanizer-id)**
+
+</div>
 
 ---
 
@@ -312,7 +430,7 @@ Artinya kamu **bebas** pakai, ubah, gabungin, publikasi, distribusi, sublisensi,
 
 ---
 
-Kalau skill ini kepake, kasih ⭐ ya biar makin banyak yang nemu!
+Kalau `humanizer-id` kepake, jangan lupa kasih ⭐ di atas ya!
 
 **Gas nulis! ✍️**
 
