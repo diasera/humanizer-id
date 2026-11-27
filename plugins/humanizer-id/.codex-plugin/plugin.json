@@ -1,0 +1,19 @@
+{
+  "name": "humanizer-id",
+  "version": "2.0.0",
+  "description": "Bikin AI nulis bahasa Indonesia santai, natural, dan kekinian ala Gen Z 2026: cerita/Wattpad, humanize teks AI, sosmed, copywriting, chatbot/CS, balas chat, artikel, dan terjemahan gaul.",
+  "author": { "name": "diasera" },
+  "homepage": "https://github.com/diasera/humanizer-id",
+  "repository": "https://github.com/diasera/humanizer-id",
+  "license": "MIT",
+  "keywords": ["indonesia", "bahasa-indonesia", "bahasa-gaul", "gen-z", "humanizer", "writing", "copywriting", "wattpad", "chatbot"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "humanizer-id",
+    "shortDescription": "Bahasa Indonesia santai Gen Z",
+    "longDescription": "Skill multifungsi buat bikin tulisan bahasa Indonesia santai, natural, dan konsisten ala Gen Z 2026. Ada 8 mode: cerita/Wattpad, humanizer teks AI, sosmed, copywriting, chatbot/CS, chat harian, artikel, dan terjemahan gaul. Lengkap sama Tone Lock, 4 level slang, kamus slang 2026, dan checklist.",
+    "developerName": "diasera",
+    "category": "Productivity",
+    "websiteURL": "https://github.com/diasera/humanizer-id"
+  }
+}

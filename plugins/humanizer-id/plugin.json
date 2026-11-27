@@ -1,0 +1,14 @@
+{
+  "name": "humanizer-id",
+  "displayName": "humanizer-id",
+  "description": "Bikin AI nulis bahasa Indonesia santai, natural, dan kekinian ala Gen Z 2026: cerita/Wattpad, humanize teks AI, sosmed, copywriting, chatbot/CS, balas chat, artikel, dan terjemahan gaul.",
+  "version": "2.0.0",
+  "author": { "name": "diasera" },
+  "homepage": "https://github.com/diasera/humanizer-id",
+  "repository": "https://github.com/diasera/humanizer-id",
+  "suggestedPrompts": [
+    "Ubah teks ini biar nggak kaku dan nggak kerasa AI",
+    "Tulis bab 1 cerita romcom kampus pakai gaya gue-lo",
+    "Bikin caption IG santai buat kafe baru, lengkap sama CTA"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "humanizer-id",
+  "interface": { "displayName": "humanizer-id" },
+  "plugins": [
+    {
+      "name": "humanizer-id",
+      "source": { "source": "local", "path": "./plugins/humanizer-id" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
