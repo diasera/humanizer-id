@@ -1,0 +1,13 @@
+# Local private MCP server
+mcp/
+
+# Dependencies, build artifacts & local secrets
+node_modules/
+.wrangler/
+.dev.vars
+.env
+.env.*
+dist/
+*.log
+.DS_Store
+Thumbs.db
