@@ -140,6 +140,7 @@ Maaf banget ya Kak paketnya telat nyampe. Boleh kirim nomor pesanannya dulu? Aku
 | **Endpoint MCP** | `https://humanizer-id.mbsc.my.id/mcp` |
 | **Transport** | Streamable HTTP (stateless) |
 | **Autentikasi** | Tanpa auth (publik & gratis dipakai) |
+| **Privasi & Keamanan** | [`https://humanizer-id.mbsc.my.id/privacy`](https://humanizer-id.mbsc.my.id/privacy) *(read-only, teks nggak disimpan/dicatat ke log)* |
 | **Status / Health** | [`https://humanizer-id.mbsc.my.id/health`](https://humanizer-id.mbsc.my.id/health) |
 
 ### 🧰 Tools MCP yang Tersedia
@@ -416,6 +417,7 @@ Baca dulu [CONTRIBUTING.md](CONTRIBUTING.md) biar formatnya seragam.
 - Beberapa istilah berlabel ⚫ bersifat **kasar/peyoratif**. Istilah itu dicantumin cuma buat kebutuhan karakter fiksi, bukan buat ngehina siapa pun.
 - Arti slang dikumpulin dari pemakaian sehari-hari dan sumber publik (artikel gaya hidup, media sosial). Pemakaian bisa beda-beda tiap daerah dan circle.
 - **Etika humanizer:** skill ini buat bikin tulisan enak dibaca, **bukan** buat nyontek tugas akademik atau ngaku tulisan orang lain sebagai karya sendiri. Skill ini juga **nggak menjamin** tulisan lolos AI detector.
+- **Privasi MCP:** semua 5 tool MCP bersifat read-only dan teks yang dicek di `check_consistency` diproses di memori saja (nggak disimpan & nggak dicatat ke log). Meski begitu, **jangan kirim data rahasia** (password, OTP, KTP, data klien) ke server MCP publik — untuk data sensitif / *Zero Data Retention*, pakai mode lokal (`main.zip` / `npx skills add`). Detail lengkap ada di [Privasi & Keamanan](https://humanizer-id.mbsc.my.id/privacy).
 - Skill ini buat teks santai. Jangan dipakai buat dokumen hukum, medis, atau akademik formal.
 
 ---

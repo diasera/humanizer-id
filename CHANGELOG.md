@@ -8,6 +8,10 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/) dan
 ### Added
 - Dukungan **Hosted Remote MCP Server** publik di `https://humanizer-id.mbsc.my.id/mcp` (Streamable HTTP stateless, auto-sync file `.md` dari GitHub, 5 tools + Resources + Prompts).
 - Tampilan `README.md` baru yang lebih rapi: hero CTA, 3 contoh before/after, tabel level slang, panduan koneksi MCP (ChatGPT, Claude Code, Antigravity, Cursor), dan bagian Sponsor & Support.
+- Halaman kebijakan privasi & keamanan di `https://humanizer-id.mbsc.my.id/privacy` serta peringatan data sensitif / *Zero Data Retention* di `README.md`.
+
+### Security
+- Hardening endpoint MCP publik: batas ukuran payload & batch JSON-RPC, batas panjang input, allowlist ketat file GitHub, header keamanan penuh (CSP, HSTS, `X-Frame-Options: DENY`, `nosniff`), sensor query string di log, serta Cloudflare WAF rate limiting.
 
 ## [2.0.0] - 2026-11-26
 
