@@ -77,7 +77,7 @@ Dalam era digital yang terus berkembang pesat ini, penting bagi kita untuk memah
 </td>
 <td valign="top">
 
-Kalau waktu kamu berantakan, kerjaan ikut berantakan. Makanya ngatur waktu itu penting banget. Tentuin dulu mana yang paling mendesak, kerjain satu-satu, dan sisain waktu buat istirahat.
+Kalau kita pengen lebih produktif, cara kita ngatur waktu itu penting banget. Dengan strategi yang pas, kita bisa nyelesain macam-macam tugas dengan hasil yang baik tanpa banyak waktu atau tenaga yang kebuang.
 
 </td>
 </tr>

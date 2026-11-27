@@ -37,6 +37,8 @@
 - **Peka konteks.** Teks sumber serius (berita duka, medis, hukum) → jangan digauli. Turunin ke level 0–1.
 - **Konsisten per karakter** kalau terjemahin dialog: satu karakter satu gaya.
 
+Perhatiin apa yang masih boleh dilakuin lawan bicara. “You don't have to reply tonight” bisa jadi “Kamu nggak harus bales malam ini.” Dia masih boleh bales malam itu kalau mau. Untuk “You mustn't reply tonight”, pakai “Kamu nggak boleh bales malam ini.”
+
 ### Tabel Idiom Inggris → Gaul
 
 | Inggris | Indonesia santai |
@@ -96,7 +98,7 @@
 > Kepada seluruh mahasiswa, diberitahukan bahwa kegiatan perkuliahan hari Jumat ditiadakan dikarenakan adanya perbaikan jaringan listrik di area kampus.
 
 ✅ **Sesudah (level 1–2):**
-> Info buat anak-anak: kuliah hari Jumat libur ya, soalnya ada perbaikan listrik di kampus. Santai aja, lumayan buat rebahan.
+> Teman-teman, hari Jumat nggak ada kuliah karena ada perbaikan jaringan listrik di kampus.
 
 ### Contoh 2 — Inggris → Gaul (dialog)
 

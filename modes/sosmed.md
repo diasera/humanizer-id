@@ -34,6 +34,7 @@
 ## Aturan Khusus
 
 - **Hook di awal.** Orang scroll cepat. Kalimat pertama harus bikin berhenti.
+- **Tepati janji di pembuka.** Kalau baris pertama bilang ada dua cara, pembaca mesti bisa nemuin dua-duanya di postingan atau video itu. Baru setelah itu ajak mereka milih cara yang mau dicoba.
 - **Satu pesan per postingan.** Jangan jejalin tiga ajakan sekaligus.
 - **Ngomong ke satu orang**, bukan ke "para pengguna sekalian".
 - **Konkret.** Angka, nama tempat, harga, atau detail kecil lebih nendang daripada kata sifat.
@@ -78,6 +79,8 @@
 
 ### Contoh 1 — Caption IG (kafe baru)
 
+Di brief contoh ini, pemilik kafe nyebutin Jl. Merdeka No. 12, kopi susu Rp18 ribu, banyak colokan, dan Wi-Fi yang kenceng.
+
 ❌ **Kaku:**
 > Kami dengan bangga mengumumkan pembukaan kafe terbaru kami yang berlokasi di Jalan Merdeka No. 12. Kunjungi kami untuk menikmati berbagai hidangan istimewa.
 
@@ -86,17 +89,17 @@
 >
 > Tempat nongki baru di Jl. Merdeka No. 12. Kopi susunya Rp18 ribu, colokannya banyak, wifinya kenceng. Cocok buat yang lagi gabut atau lagi dikejar deadline.
 >
-> Ajak circle kamu, tag yang paling sering ngajak nongki.
+> Tag temen yang paling sering ngajak nongki.
 >
 > #kafebaru #nongki #kopisusu
 
 ### Contoh 2 — Thread X (hemat anak kos)
 
-> 1/ Gaji udah tanggal 5 tapi dompet udah tanggal 25? Ini 5 cara hemat anak kos yang beneran kepake, bukan yang cuma "bawa bekal" doang 🧵
+> 1/ Baru gajian, tapi uang makan udah mepet? Ini dua cara yang bisa kamu coba di kos 🧵
 >
-> 2/ Pisahin duit di hari gajian. Jatah makan, kos, dan tabungan masuk rekening beda. Yang kelihatan sisanya itu doang yang boleh dipakai jajan.
+> 2/ Pas gajian, pisahin dulu uang kos dari jatah makan. Besok pas mau pesen nasi, kamu bisa liat berapa yang emang tersedia buat makan.
 >
-> 3/ Masak itu hemat, tapi masak buat satu orang boros. Patungan bahan sama temen sekos, hematnya kerasa banget.
+> 3/ Satu ikat kangkung kebanyakan buat kamu sendiri? Patungan sama temen kos, terus bagi belanjaannya. Dari dua cara ini, mana yang mau kamu coba dulu?
 
 ### Contoh 3 — Script Reels (30 detik)
 

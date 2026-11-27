@@ -82,6 +82,12 @@ Empat "bagian" ini punya aturan beda. Jangan ketuker.
 
 > Raka mendengus. Lagi-lagi Senin, lagi-lagi telat. *Kenapa sih Senin harus ada.*
 
+Kalau pakai POV pertama atau ketiga terbatas, cek apa yang bisa diliat atau didenger tokoh di adegan itu. Dia boleh nebak perasaan orang lain. Kasih pembaca petunjuk yang bikin tebakan itu masuk akal.
+
+> “Lo nungguin gue?” tanya gue.
+>
+> “Nunggu hujan reda.” Sita geser tasnya biar gue bisa duduk. Di luar, tukang parkir udah ngelipet payung.
+
 ### Voice Tiap Karakter
 
 Biar tiap karakter kedengeran beda tapi tetap konsisten, bikin voice sheet sebelum nulis:

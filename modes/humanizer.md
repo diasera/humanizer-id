@@ -37,7 +37,7 @@
 2. **Tandai "AI tells".** Cari frasa klise, kalimat pasif berlapis, dan pembuka/penutup basa-basi (lihat tabel di bawah).
 3. **Tentuin Tone Lock.** Level, kata ganti, dan platform. Kalau user nggak bilang, pakai default.
 4. **Tulis ulang.**
-   - Kalimat aktif dan pendek, variasiin panjangnya.
+   - Utamain kalimat aktif kalau pelakunya jelas. Variasiin panjang kalimat biar enak dibaca.
    - Buang filler yang nggak nambah makna.
    - Terapin tabel ejaan santai di [SKILL.md](../SKILL.md#ejaan-santai-yang-udah-dikunci).
    - Partikel (sih, dong, deh) secukupnya, jangan tiap kalimat.
@@ -52,12 +52,22 @@
 - **Catatan perubahan** (opsional): kalau user minta, kasih daftar singkat apa yang diubah dan kenapa.
 - **Jangan ngubah sudut pandang** (misal dari "kami" jadi "gue") kecuali diminta.
 
+### Kata kecil yang ngubah maksud
+
+Bayangin pembaca mau ambil keputusan dari tulisan ini. Pas kalimatnya dipendekin, apa ada perkiraan yang kebaca kayak janji? Ada syarat yang ikut hilang?
+
+| Teks asli | Versi santai | Yang perlu dijaga |
+|---|---|---|
+| Paket diperkirakan tiba pada hari Jumat. | Paketnya kemungkinan datang hari Jumat. | Jumat masih perkiraan. |
+| Voucher ini memberikan diskon hingga 30% untuk produk tertentu. | Kalau pakai voucher ini, diskonnya sampai 30% buat produk tertentu. | 30% itu batas atas. Syarat voucher dan batasan produknya tetap kebaca. |
+| Jadwal baru belum diumumkan. | Jadwal barunya belum diumumin. | Pelakunya nggak disebut. Bentuk pasif tetap enak dibaca di sini. |
+
 ### Tabel "AI Tells" Bahasa Indonesia
 
 | ❌ Kerasa AI | ✅ Ganti jadi |
 |---|---|
-| "Dalam era digital saat ini..." | Langsung ke inti: "Sekarang, hampir semua orang..." |
-| "Di dunia yang serba cepat ini..." | Hapus, atau pakai contoh konkret |
+| "Dalam era digital saat ini..." | Kalau cuma pembuka, hapus dan langsung masuk ke inti kalimat. |
+| "Di dunia yang serba cepat ini..." | Hapus, atau buka pakai contoh konkret dari teks asli. |
 | "Penting untuk dicatat bahwa..." | Hapus, langsung sebut poinnya |
 | "Tidak dapat dipungkiri bahwa..." | "Jujur aja," / "Emang," |
 | "Mari kita selami..." | "Yuk bahas..." / langsung mulai |
@@ -67,7 +77,7 @@
 | "merupakan" di mana-mana | "adalah" / hapus / pakai kata kerja |
 | Daftar yang selalu persis 3 item | Sebut sebanyak yang emang ada |
 | Tanda pisah panjang (—) di tiap kalimat | Koma, titik, atau pecah kalimat |
-| "dapat dilakukan oleh" (pasif berlapis) | "bisa dikerjain" / "kamu bisa..." |
+| "dapat dilakukan oleh" (pasif berlapis) | Bawa pelaku ke depan kalau jelas. "Status pesanan dapat dicek oleh tim kami" jadi "Tim kami bisa cek status pesanan". |
 | "sangat", "sekali" ditumpuk | Satu "banget" cukup |
 | "Dengan demikian,", "Oleh karena itu," | "Jadi," / "Makanya," |
 
@@ -90,10 +100,10 @@
 > Dalam era digital yang terus berkembang pesat ini, penting bagi kita untuk memahami bahwa manajemen waktu merupakan kunci utama dalam mencapai produktivitas yang optimal. Dengan menerapkan strategi yang tepat, kita dapat menyelesaikan berbagai tugas secara efisien dan efektif.
 
 ✅ **Sesudah (level 1):**
-> Kalau waktu kamu berantakan, kerjaan ikut berantakan. Makanya ngatur waktu itu penting banget. Tentuin dulu mana yang paling mendesak, kerjain satu-satu, dan sisain waktu buat istirahat.
+> Kalau kita pengen lebih produktif, cara kita ngatur waktu itu penting banget. Dengan strategi yang pas, kita bisa nyelesain macam-macam tugas dengan hasil yang baik tanpa banyak waktu atau tenaga yang kebuang.
 
 ✅ **Sesudah (level 2):**
-> Jujur aja, kerjaan numpuk itu biasanya bukan karena kamu kurang pinter, tapi karena waktunya nggak diatur. Mulai dari yang paling urgent, kerjain satu-satu, dan jangan lupa healing dikit biar nggak burnout.
+> Ngatur waktu itu ngaruh banget ke seberapa produktif kita. Kalau udah nemu cara yang cocok, kita bisa beresin macam-macam kerjaan tanpa banyak buang waktu dan tetap dapet hasil yang kita mau.
 
 ### Contoh 2 — Deskripsi produk
 
@@ -101,7 +111,7 @@
 > Aplikasi ini merupakan solusi inovatif yang dapat membantu pengguna untuk mengelola keuangan pribadi dengan lebih mudah, cepat, dan terstruktur.
 
 ✅ **Sesudah (level 1):**
-> Aplikasi ini bantu kamu ngatur duit lebih gampang. Catat pengeluaran, liat ke mana aja duitnya lari, beres.
+> Ngatur keuangan pribadi bisa lebih gampang pakai aplikasi ini. Prosesnya juga bisa lebih cepat dan lebih rapi.
 
 ### Contoh 3 — Pesan formal ke tim
 
@@ -109,7 +119,7 @@
 > Sehubungan dengan adanya perubahan jadwal, kami mengharapkan kehadiran seluruh anggota tim pada pertemuan yang akan dilaksanakan pada hari Kamis pukul 10.00 WIB.
 
 ✅ **Sesudah (level 1):**
-> Jadwalnya berubah ya. Rapat tim dipindah ke Kamis jam 10.00 WIB, tolong semua hadir.
+> Teman-teman, jadwal rapat tim berubah jadi hari Kamis jam 10.00 WIB. Kami harap semua anggota tim bisa hadir.
 
 > [!NOTE]
 > Perhatiin: hari, jam, dan zona waktu **nggak berubah**. Yang diubah cuma gayanya.
@@ -130,6 +140,7 @@
 ## Checklist
 
 - [ ] Fakta, angka, nama, URL, dan kode nggak berubah?
+- [ ] Kalau sumbernya punya perkiraan, syarat, atau batas, apa pembaca masih bisa nangkep itu di hasilnya?
 - [ ] Nggak ada poin penting yang hilang?
 - [ ] Nggak ada info baru yang ditambahin?
 - [ ] Panjang hasil masih di kisaran ±20%?

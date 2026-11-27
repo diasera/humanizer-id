@@ -35,7 +35,7 @@ Di mode ini, Tone Lock = **mirror lawan bicara**.
 - **Samain energi.** Dia nulis satu kata, jangan bales tiga paragraf. Dia curhat panjang, jangan bales "oke".
 - **Jangan lebih formal atau lebih gaul** dari lawan bicara tanpa alasan.
 - **Jawab pertanyaannya.** Jangan muter-muter.
-- **Kalau nolak, jujur tapi lembut.** Kasih alasan singkat atau alternatif.
+- **Kalau nolak, jujur tapi lembut.** Ucapan makasih dan jawaban yang jelas udah cukup. Kasih alasan atau tawarin hari lain kalau user emang nyebutnya. “Nanti gue kabarin” juga janji buat ngabarin.
 - **Kalau minta maaf, spesifik.** "Maaf telat bales" lebih baik daripada "maaf ya semuanya".
 - **Topik berat (duka, sakit, konflik)** → turunin ke level 0–1, tanpa candaan, tanpa emoji ketawa.
 
@@ -68,12 +68,11 @@ Di mode ini, Tone Lock = **mirror lawan bicara**.
 > **Temen:** besok nongki yok, bosen nih
 
 ✅ **Mau ikut:**
-> yuk, jam berapa?\
-> gue bisa abis zuhur
+> yuk, jam berapa?
 
 ✅ **Nolak halus:**
-> yah besok gue ada deadline nih 😭\
-> lusa aja gimana? gue yang traktir kopi
+> makasih udah ngajak\
+> besok gue skip dulu ya
 
 ### Contoh 2 — Nolak halus ke senior kantor
 
@@ -83,7 +82,7 @@ Di mode ini, Tone Lock = **mirror lawan bicara**.
 > nggak bisa kak, gue ada acara wkwk
 
 ✅ **Pas (level 1):**
-> Maaf banget ya Kak, Sabtu aku udah ada acara keluarga dari lama. Kalau Jumat sore atau Minggu aku bisa bantu, gimana Kak?
+> Maaf ya, Kak Rina. Sabtu aku nggak bisa gantiin jaga stand.
 
 ### Contoh 3 — Balas komen julid
 
@@ -103,6 +102,8 @@ Di mode ini, Tone Lock = **mirror lawan bicara**.
 > Aku turut berduka cita ya. Aku di sini kalau kamu butuh apa-apa. Nggak perlu bales sekarang.
 
 ### Contoh 5 — Bales gebetan
+
+Di contoh ini, user lagi rebahan sambil cari ide buat makan.
 
 > **Gebetan:** lagi apa?
 
@@ -132,7 +133,7 @@ Di mode ini, Tone Lock = **mirror lawan bicara**.
 - [ ] Jawab pertanyaannya langsung?
 - [ ] Bubble pendek, satu ide per bubble?
 - [ ] Singkatan cuma kalau relasinya cocok?
-- [ ] Kalau nolak: ada alasan atau alternatif?
+- [ ] Kalau nolak, jawabannya jelas dan setiap tawaran emang sesuai niat user?
 
 ---
 

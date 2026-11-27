@@ -30,7 +30,7 @@
 
 ## Aturan Khusus
 
-- **Benefit > fitur.** Orang nggak beli "bahan katun 20s", orang beli "adem dipakai seharian".
+- **Tarik manfaat dari fitur di brief.** Bayangin pembeli lagi pakai produknya. Kantong botol di luar bikin botol bisa diambil tanpa buka ruang utama. Kalau yang diketahui baru bobot tas kosong, sebut bobotnya. Janji soal pundak bebas pegal perlu bukti sendiri.
 - **Satu janji utama.** Jangan nyebut lima keunggulan sekaligus di headline.
 - **Konkret.** Angka, ukuran, durasi, harga, bukti.
 - **Urgensi harus jujur.** "Promo sampai 30 November" boleh kalau emang bener.
@@ -39,19 +39,21 @@
 
 ### Kerangka Cepat
 
+Brief fiktif buat contoh tas di bawah menyebut kompartemen laptop 14 inci, kantong botol di sisi luar, bobot kosong 600 gram, dan ukuran 40 × 28 × 12 cm.
+
 **AIDA versi santai:**
 
 | Tahap | Tugas | Contoh |
 |---|---|---|
-| **A**ttention | Bikin berhenti | "Tas muat laptop 14 inci, tapi nggak bikin pundak pegel." |
-| **I**nterest | Tunjukin kenapa menarik | "Bahan anti air, ada slot botol, bobotnya cuma 600 gram." |
-| **D**esire | Bikin kebayang | "Hujan di jalan? Laptop kamu aman." |
-| **A**ction | Ajak gerak | "Checkout sekarang, stok tinggal 12." |
+| **A**ttention | Bikin berhenti | "Sering bongkar isi tas cuma buat minum?" |
+| **I**nterest | Tunjukin kenapa menarik | "Ada kantong botol di sisi luar dan kompartemen sendiri buat laptop 14 inci." |
+| **D**esire | Bikin kebayang | "Lagi nunggu bus? Botolnya tinggal ambil dari samping." |
+| **A**ction | Ajak gerak | "Cek ukuran tasnya." |
 
 **PAS (Problem–Agitate–Solve):**
-1. Masalah: "Skincare banyak, kulit tetap kusam?"
-2. Perjelas rasa nggak enaknya: "Udah ganti-ganti, uang habis, hasil nol."
-3. Solusi: "Cukup tiga langkah, rutin dua minggu."
+1. Tanyain masalahnya. "Sering nyari botol di dasar tas?"
+2. Tunjukin repotnya. "Baru mau minum, buku udah ikut keangkat."
+3. Kenalin solusinya. "Di tas ini, botol punya kantong sendiri di sisi luar."
 
 ### CTA yang Natural
 
@@ -98,14 +100,13 @@
 > Tas ini merupakan produk berkualitas tinggi yang terbuat dari material pilihan, dirancang untuk memenuhi kebutuhan mobilitas Anda sehari-hari dengan desain yang elegan dan fungsional.
 
 ✅ **Santai (level 1):**
-> Tas yang muat laptop 14 inci, tapi nggak bikin pundak pegel.
+> Mau minum di perjalanan? Tinggal ambil botol dari kantong samping.
 >
-> - Bahan anti air, hujan deras pun isi tas tetap aman
-> - Ada slot botol minum di samping
-> - Bobot cuma 600 gram
-> - Ukuran: 40 × 28 × 12 cm
+> - Ada kompartemen sendiri buat laptop 14 inci
+> - Bobot tas kosong 600 gram
+> - Ukuran 40 × 28 × 12 cm
 >
-> Cocok buat kuliah, kerja, atau mudik singkat. Checkout sekarang, stok terbatas.
+> Cocokin ukurannya sama bawaan harian kamu.
 
 ### Contoh 2 — Push notification
 
@@ -113,9 +114,9 @@
 > Segera manfaatkan penawaran spesial kami dengan potongan harga hingga 50% untuk seluruh produk pilihan.
 
 ✅ **Santai (level 2):**
-> **Flash sale mulai jam 12 ⚡**
+> **Diskon produk pilihan ⚡**
 >
-> Diskon sampai 50% buat produk pilihan. Cuma sampai jam 14.00, jangan sampai nyesel ya.
+> Potongannya sampai 50%. Cek produk yang ikut promo.
 
 ### Contoh 3 — Headline banner
 

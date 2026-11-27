@@ -32,6 +32,7 @@
 
 - **Fakta tetap akurat.** Santai bukan berarti asal. Cek angka, nama, dan tanggal.
 - **Sebut sumber** kalau ada data atau klaim penting.
+- **Kasih konteks buat angka.** Kalau ngutip survei, sebut siapa yang jawab dan apa yang ditanya. Misalnya, “Di jajak pendapat klub baca, 12 dari 20 anggota yang jawab milih pertemuan hari Sabtu” (angka rekaan). Kalau surveinya cuma nanya hari, alasan mereka milih Sabtu masih belum diketahui.
 - **Satu artikel, satu pertanyaan utama.** Jawab itu dengan jelas.
 - **Mulai dari yang paling berguna.** Jangan buka dengan sejarah panjang.
 - **Contoh konkret** lebih ngena daripada definisi.
@@ -72,7 +73,7 @@
 > Di era globalisasi seperti sekarang ini, kebutuhan akan pengelolaan keuangan pribadi menjadi sangat penting bagi setiap individu, khususnya generasi muda yang baru memasuki dunia kerja.
 
 ✅ **Santai (level 1):**
-> Gajian pertama itu seneng banget, sampai tanggal 20 dan kamu baru sadar duitnya lari ke mana. Tenang, hampir semua orang yang baru kerja ngalamin ini. Di artikel ini aku bahas cara ngatur gaji yang gampang dan nggak bikin pusing.
+> Gaji pertama masuk, terus pas tanggal 20 kamu buka saldo dan mikir, “Duitku kepakai buat apa aja, ya?” Di artikel ini aku bahas cara ngatur gaji, mulai dari nyatet pengeluaran harian.
 
 ### Contoh 2 — Subjudul dan paragraf
 
@@ -84,7 +85,7 @@
 ✅ **Santai (level 1):**
 > **Kenapa Kamu Butuh Dana Darurat**
 >
-> Bayangin tiba-tiba HP rusak, atau kantor tutup bulan depan. Dana darurat itu tabungan khusus buat kejadian kayak gitu, bukan buat beli sepatu diskon. Patokan umumnya, simpen 3–6 kali pengeluaran bulanan.
+> Bayangin HP kamu rusak mendadak dan perlu diservis. Dana darurat itu uang yang sengaja kamu sisihin buat kebutuhan dadakan kayak gini.
 
 ### Contoh 3 — Subject line newsletter
 

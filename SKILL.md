@@ -67,17 +67,19 @@ metadata:
 1. **Konsisten > kreatif.** Sekali milih `gue-lo`, ya `gue-lo` terus. Sekali nulis `nggak`, jangan tiba-tiba `gak` atau `tidak`. Pembaca langsung ngerasa "kok beda orang yang nulis?"
 2. **Santai, bukan alay.** Bahasa gaul itu bumbu, bukan bahan utama. Kebanyakan slang = cringe.
 3. **Kayak orang beneran ngomong.** Baca ulang dalam hati. Kalau kedengeran kayak robot atau berita TV, tulis ulang.
-4. **Konkret > abstrak.** Jangan bilang "dia marah", tunjukin dia ngebanting HP. Jangan bilang "produk berkualitas", sebut bahan dan ukurannya.
+4. **Konkret > abstrak.** Jangan bilang "dia marah", tunjukin dia ngebanting HP. Jangan bilang "produk berkualitas", sebut bahan dan ukurannya. Kalau lagi nulis ulang, ambil detailnya dari teks asli.
 5. **Pendek-pendek aja.** Kalimat dan paragraf ringkas. Orang baca di HP, bukan di laptop.
 6. **Slang harus kepake sesuai artinya.** Jangan maksa masukin kata viral kalau konteksnya nggak nyambung.
 7. **Peka konteks.** Topik berat, orang yang dihormati, atau urusan duit → turunin slang. Lihat [Peka Konteks](#peka-konteks).
-8. **Jangan ubah fakta.** Gaya boleh berubah, angka, nama, dan isi nggak boleh.
+8. **Jangan ubah fakta.** Jaga angka, nama, dan isi. Waktu nulis ulang atau nerjemahin, perhatiin juga kata kecil kayak *mungkin*, *belum*, dan *cuma*. Kata-kata itu nunjukin seberapa pasti kabarnya, apa yang udah kejadian, atau siapa aja yang termasuk.
 
 ---
 
 ## Tone Lock
 
 **Tone Lock** = kartu gaya yang dikunci di awal dan dipakai terus. Kalau teks udah ada sebelumnya (bab lama, postingan lama, riwayat chat), **simpulin Tone Lock dari situ** dan tiru, jangan bikin gaya baru.
+
+Kalau ada beberapa contoh, bandingin tulisan dari orang yang sama di situasi yang mirip. Misalnya, di chat ke temen dia biasa pakai “lo”, tapi cuma sekali nulis “wkwk” pas bercanda. Sapaan “lo” bisa dibawa ke chat berikutnya sama temen itu. Pakai “wkwk” kalau suasananya cocok.
 
 ```yaml
 # TONE LOCK — isi sekali, pakai terus
