@@ -14,6 +14,14 @@
     "longDescription": "Skill multifungsi buat bikin tulisan bahasa Indonesia santai, natural, dan konsisten ala Gen Z 2026. Ada 8 mode: cerita/Wattpad, humanizer teks AI, sosmed, copywriting, chatbot/CS, chat harian, artikel, dan terjemahan gaul. Lengkap sama Tone Lock, 4 level slang, kamus slang 2026, dan checklist.",
     "developerName": "diasera",
     "category": "Productivity",
-    "websiteURL": "https://github.com/diasera/humanizer-id"
+    "capabilities": ["Interactive"],
+    "websiteURL": "https://github.com/diasera/humanizer-id",
+    "defaultPrompt": [
+      "Ubah teks ini biar nggak kaku dan nggak kerasa AI",
+      "Tulis bab 1 cerita romcom kampus pakai gaya gue-lo",
+      "Bikin caption IG santai buat kafe baru, lengkap sama CTA"
+    ],
+    "brandColor": "#10A37F",
+    "screenshots": []
   }
 }
