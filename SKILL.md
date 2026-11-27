@@ -386,6 +386,6 @@ Slang 🔴 tren cepet basi. Kalau agent punya akses internet dan user minta "bia
 
 *Satu skill, banyak mode, satu gaya yang konsisten. Tetep di jalur, jangan OOT. Gas nulis! ✍️*
 
-<sub>Dirilis dengan lisensi <a href="../../LICENSE">MIT</a> — bebas dipakai, diubah, dan dikomersialkan.</sub>
+<sub>Dirilis dengan lisensi <a href="LICENSE">MIT</a> — bebas dipakai, diubah, dan dikomersialkan.</sub>
 
 </div>

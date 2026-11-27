@@ -1,20 +1,33 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "humanizer-id",
-  "owner": { "name": "diasera" },
-  "metadata": {
-    "description": "Bikin AI nulis bahasa Indonesia santai, natural, dan kekinian ala Gen Z 2026: cerita/Wattpad, humanize teks AI, sosmed, copywriting, chatbot/CS, balas chat, artikel, dan terjemahan gaul.",
-    "version": "2.0.0"
+  "owner": {
+    "name": "diasera",
+    "url": "https://github.com/diasera"
   },
+  "description": "Install humanizer-id sebagai plugin buat nulis bahasa Indonesia santai ala Gen Z 2026.",
   "plugins": [
     {
       "name": "humanizer-id",
-      "source": "./plugins/humanizer-id",
+      "source": "./",
       "description": "Bikin AI nulis bahasa Indonesia santai, natural, dan kekinian ala Gen Z 2026: cerita/Wattpad, humanize teks AI, sosmed, copywriting, chatbot/CS, balas chat, artikel, dan terjemahan gaul.",
       "version": "2.0.0",
-      "author": { "name": "diasera" },
+      "author": {
+        "name": "diasera",
+        "url": "https://github.com/diasera"
+      },
       "license": "MIT",
-      "keywords": ["indonesia", "bahasa-indonesia", "bahasa-gaul", "gen-z", "humanizer", "writing", "copywriting", "wattpad", "chatbot"],
-      "category": "productivity"
+      "keywords": [
+        "indonesia",
+        "bahasa-indonesia",
+        "bahasa-gaul",
+        "gen-z",
+        "humanizer",
+        "writing",
+        "copywriting",
+        "wattpad",
+        "chatbot"
+      ]
     }
   ]
 }

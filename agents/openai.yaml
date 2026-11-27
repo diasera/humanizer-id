@@ -1,0 +1,4 @@
+interface:
+  display_name: "humanizer-id"
+  short_description: "Bahasa Indonesia santai ala Gen Z 2026"
+  default_prompt: "Pakai $humanizer-id buat bikin tulisan bahasa Indonesia ini jadi santai, natural, dan konsisten tanpa ngubah faktanya."

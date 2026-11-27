@@ -9,12 +9,11 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/) dan
 
 ### Changed
 - **BREAKING:** skill di-rename dari `gayabahasa` jadi `humanizer-id`, dan cakupannya diperluas dari khusus nulis cerita jadi multifungsi.
-- `SKILL.md` sekarang jadi inti aturan + pemilih mode. Materi spesifik tiap kebutuhan dipindah ke `modes/`.
+- `SKILL.md` sekarang jadi inti aturan + pemilih mode di root repo. Materi spesifik tiap kebutuhan dipindah ke `modes/`.
 - Style Lock diganti jadi **Tone Lock** (berlaku buat semua mode, bukan cuma cerita).
 - Kamus slang dan singkatan dipindah ke `references/kamus-slang.md`.
 - Materi nulis cerita (hook, cliffhanger, voice sheet, format, contoh) dipindah ke `modes/cerita.md`.
 - Aturan singkatan chat sekarang per mode, bukan cuma buat adegan chat di cerita.
-- File skill dipindah ke `plugins/humanizer-id/skills/humanizer-id/` (`SKILL.md`, `modes/`, `references/`).
 
 ### Added
 - Level slang 0 (**Santai Sopan**) buat CS, klien, atasan, dan topik sensitif.
@@ -23,9 +22,12 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/) dan
 - Anti-pattern "kerasa AI" buat tulisan non-fiksi.
 - Tabel pilih kata ganti (`gue-lo`, `aku-kamu`, `kamu`, `Kak`, `Anda`).
 - Aturan prioritas multi-agent yang diperluas.
-- Packaging plugin buat ChatGPT/Codex (`.codex-plugin/plugin.json`), Claude Code (`.claude-plugin/plugin.json`), dan Antigravity (`plugin.json`).
-- Marketplace di repo: `.agents/plugins/marketplace.json` (ChatGPT/Codex) dan `.claude-plugin/marketplace.json` (Claude Code).
-- README baru: tabel mode, contoh prompt per mode, dan panduan pasang seluruh folder.
+- Packaging multi-platform di root repo (siap langsung download `main.zip` dan upload):
+  - `.claude-plugin/plugin.json` & `.claude-plugin/marketplace.json` (Claude Code & ChatGPT)
+  - `.cursor-plugin/plugin.json` (Cursor)
+  - `agents/openai.yaml` (OpenAI / Codex)
+  - `package.json` (Pi)
+- README baru: tabel mode, contoh prompt per mode, dan link download ZIP langsung dari GitHub.
 
 ## [1.0.0] - 2026-11-26
 

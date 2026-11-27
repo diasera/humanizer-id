@@ -2,13 +2,13 @@
 
 # ✍️ humanizer-id
 
-**Humanizer versi Indonesia 🇮🇩 — skill AI agent multifungsi buat bikin tulisan bahasa Indonesia santai, natural, dan kekinian ala Gen Z 2026. Cocok buat cerita, sosmed, copywriting, chatbot, chat harian, artikel, sampai terjemahan. Santai, nggak kaku, dan konsisten.**
+**Humanizer versi Indonesia 🇮🇩 — skill & plugin AI agent multifungsi buat bikin tulisan bahasa Indonesia santai, natural, dan kekinian ala Gen Z 2026. Cocok buat cerita, sosmed, copywriting, chatbot, chat harian, artikel, sampai terjemahan. Santai, nggak kaku, dan konsisten.**
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![Bahasa](https://img.shields.io/badge/bahasa-Indonesia-red.svg)
 ![Format](https://img.shields.io/badge/format-SKILL.md-8A2BE2.svg)
-![Plugin](https://img.shields.io/badge/plugin-ChatGPT%20%7C%20Codex%20%7C%20Claude%20%7C%20Antigravity-orange.svg)
+![Multi-Platform](https://img.shields.io/badge/platform-ChatGPT%20%7C%20Claude%20%7C%20Codex%20%7C%20Cursor%20%7C%20Antigravity%20%7C%20Pi-orange.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 [Fitur](#-fitur) •
@@ -25,7 +25,7 @@
 
 ## 🤔 Ini Apa?
 
-`humanizer-id` adalah **skill (instruksi siap pakai)** buat AI agent — Antigravity, Claude Code, Cursor, ChatGPT, Gemini, dan agent lain yang bisa baca file Markdown.
+`humanizer-id` adalah **skill & plugin siap pakai** buat berbagai AI agent — ChatGPT, Claude, Codex, Cursor, Google Antigravity, Pi, Gemini, dan agent lain yang bisa baca `SKILL.md`.
 
 Pernah nyuruh AI nulis sesuatu terus hasilnya kayak gini?
 
@@ -43,7 +43,7 @@ Bedanya sama skill "humanizer" biasa: `humanizer-id` **multifungsi**. Satu inti 
 
 | | Fitur | Penjelasan |
 |---|---|---|
-| 🔌 | **Plugin Siap Pasang** | Bisa dipasang sebagai plugin di ChatGPT/Codex, Claude Code, dan Antigravity, atau sebagai skill biasa. |
+| 🔌 | **Multi-Platform & Siap Upload ZIP** | Satu repo jalan di ChatGPT, Claude, Codex, Cursor, Antigravity, Pi, dan agent lain — tinggal download ZIP dari GitHub dan langsung upload. |
 | 🧩 | **8 Mode** | Cerita, humanizer, sosmed, copywriting, chatbot, chat harian, artikel, terjemahan. Tiap mode punya default, contoh, dan checklist sendiri. |
 | 🔒 | **Tone Lock** | Kartu gaya (kata ganti, level slang, ejaan, emoji) yang dikunci dari awal biar konsisten. |
 | 🎚️ | **4 Level Slang (0–3)** | Dari santai sopan sampai full Gen Z, otomatis turun di topik serius. |
@@ -60,16 +60,16 @@ Bedanya sama skill "humanizer" biasa: `humanizer-id` **multifungsi**. Satu inti 
 
 | Mode | Buat apa | File | Contoh pemakaian |
 |---|---|---|---|
-| 📚 **Cerita** | Novel, Wattpad, cerbung, fanfic, AU | [cerita.md](plugins/humanizer-id/skills/humanizer-id/modes/cerita.md) | "Tulis bab 1 romcom kampus, POV gue." |
-| 🧑‍💻 **Humanizer** | Ubah teks kaku/kerasa AI jadi natural | [humanizer.md](plugins/humanizer-id/skills/humanizer-id/modes/humanizer.md) | "Ubah paragraf ini biar nggak kaku." |
-| 📱 **Sosmed** | Caption IG/TikTok, thread, script video | [sosmed.md](plugins/humanizer-id/skills/humanizer-id/modes/sosmed.md) | "Bikin caption buat kafe baru." |
-| 🛍️ **Copywriting** | Iklan, promo, deskripsi produk, push notif | [copywriting.md](plugins/humanizer-id/skills/humanizer-id/modes/copywriting.md) | "Deskripsi tas ransel buat marketplace." |
-| 🤖 **Chatbot** | Persona chatbot dan customer service | [chatbot.md](plugins/humanizer-id/skills/humanizer-id/modes/chatbot.md) | "Bikin persona CS yang ramah buat toko online." |
-| 💬 **Chat harian** | Balas WA, DM, komen | [chat-harian.md](plugins/humanizer-id/skills/humanizer-id/modes/chat-harian.md) | "Bantuin nolak ajakan nongki dengan halus." |
-| 📰 **Artikel** | Blog, artikel, newsletter | [artikel.md](plugins/humanizer-id/skills/humanizer-id/modes/artikel.md) | "Artikel tips hemat anak kos." |
-| 🌐 **Terjemahan** | Teks baku/Inggris → bahasa gaul | [terjemahan.md](plugins/humanizer-id/skills/humanizer-id/modes/terjemahan.md) | "Terjemahin pengumuman ini jadi gaul." |
+| 📚 **Cerita** | Novel, Wattpad, cerbung, fanfic, AU | [cerita.md](modes/cerita.md) | "Tulis bab 1 romcom kampus, POV gue." |
+| 🧑‍💻 **Humanizer** | Ubah teks kaku/kerasa AI jadi natural | [humanizer.md](modes/humanizer.md) | "Ubah paragraf ini biar nggak kaku." |
+| 📱 **Sosmed** | Caption IG/TikTok, thread, script video | [sosmed.md](modes/sosmed.md) | "Bikin caption buat kafe baru." |
+| 🛍️ **Copywriting** | Iklan, promo, deskripsi produk, push notif | [copywriting.md](modes/copywriting.md) | "Deskripsi tas ransel buat marketplace." |
+| 🤖 **Chatbot** | Persona chatbot dan customer service | [chatbot.md](modes/chatbot.md) | "Bikin persona CS yang ramah buat toko online." |
+| 💬 **Chat harian** | Balas WA, DM, komen | [chat-harian.md](modes/chat-harian.md) | "Bantuin nolak ajakan nongki dengan halus." |
+| 📰 **Artikel** | Blog, artikel, newsletter | [artikel.md](modes/artikel.md) | "Artikel tips hemat anak kos." |
+| 🌐 **Terjemahan** | Teks baku/Inggris → bahasa gaul | [terjemahan.md](modes/terjemahan.md) | "Terjemahin pengumuman ini jadi gaul." |
 
-Aturan inti, ejaan, level slang, dan checklist umum ada di [SKILL.md](plugins/humanizer-id/skills/humanizer-id/SKILL.md). Daftar kata dan singkatan ada di [references/kamus-slang.md](plugins/humanizer-id/skills/humanizer-id/references/kamus-slang.md).
+Aturan inti, ejaan, level slang, dan checklist umum ada di [SKILL.md](SKILL.md). Daftar kata dan singkatan ada di [references/kamus-slang.md](references/kamus-slang.md).
 
 ---
 
@@ -125,60 +125,54 @@ Kalau waktu kamu berantakan, kerjaan ikut berantakan. Makanya ngatur waktu itu p
 
 ## 🚀 Cara Pakai
 
-> [!TIP]
-> Cara paling gampang: pasang sebagai **plugin**. Skill, semua mode, dan kamus langsung ikut dalam satu paket.
+### Download ZIP langsung (ChatGPT Plugins / Skills, Claude.ai / Desktop)
 
-### Plugin: ChatGPT / Codex
+Download ZIP langsung dari GitHub:
 
-Repo ini udah punya marketplace (`.agents/plugins/marketplace.json`). Tambahin repo `diasera/humanizer-id` sebagai marketplace lewat menu **Plugins**, terus install `humanizer-id`.
+👉 **[Download humanizer-id (main.zip)](https://github.com/diasera/humanizer-id/archive/refs/heads/main.zip)**
 
-Kalau repo ini di-clone dan dibuka di Codex, marketplace-nya otomatis kebaca.
+Langsung upload file `.zip` itu ke menu **Plugins** atau **Skills** di ChatGPT / Claude. Karena `SKILL.md`, `modes/`, `references/`, dan `.claude-plugin/plugin.json` ada di root repo, semuanya otomatis kebaca.
 
-> [!NOTE]
-> Nama menu bisa beda tergantung versi aplikasinya.
+### Claude Code
 
-### Plugin: Claude Code
-
-```
+```bash
 /plugin marketplace add diasera/humanizer-id
 /plugin install humanizer-id@humanizer-id
 ```
 
-### Plugin: Google Antigravity
-
-Copy folder `plugins/humanizer-id/` ke folder plugin Antigravity:
-
-```
-~/.gemini/config/plugins/humanizer-id/
-```
-
-Di Windows: `%USERPROFILE%\.gemini\config\plugins\humanizer-id\`
-
-### Skill biasa (tanpa plugin)
-
-Copy folder `plugins/humanizer-id/skills/humanizer-id/` ke:
-
-```
-# Antigravity
-.agents/skills/humanizer-id/
-
-# Claude Code (per project / global)
-.claude/skills/humanizer-id/
-~/.claude/skills/humanizer-id/
-```
-
-Atau pakai `skills` CLI:
+### Skills CLI (Codex, Claude Code, Cursor, Antigravity, semua agent)
 
 ```bash
 npx skills add diasera/humanizer-id
 ```
 
-> [!IMPORTANT]
-> Pasang **seluruh folder skill** (`SKILL.md` + `modes/` + `references/`), bukan cuma `SKILL.md`. File mode dan kamus dipanggil dari `SKILL.md`.
+Atau install global ke semua agent yang terdeteksi:
 
-### Upload manual (Custom GPT / Gemini Gems / Claude Projects)
+```bash
+npx skills add diasera/humanizer-id --global --agent '*'
+```
 
-Upload **semua file `.md`** di `plugins/humanizer-id/skills/humanizer-id/` sebagai **knowledge file**. Atau copy-paste isi `SKILL.md` ke **instructions** dan upload sisanya sebagai knowledge.
+### Cursor
+
+Repo ini udah dilengkapi `.cursor-plugin/plugin.json` yang langsung baca `SKILL.md` di root. Bisa dipasang lewat `npx skills add diasera/humanizer-id` atau clone ke folder skill Cursor kamu.
+
+### Google Antigravity
+
+Clone atau copy seluruh isi repo ke folder skill workspace kamu:
+
+```bash
+git clone https://github.com/diasera/humanizer-id.git .agents/skills/humanizer-id
+```
+
+### Pi coding agent
+
+```bash
+pi install git:github.com/diasera/humanizer-id
+```
+
+### Custom GPT / Gemini Gems / Claude Projects
+
+Download dan ekstrak ZIP repo, lalu upload `SKILL.md`, semua file di `modes/`, dan `references/kamus-slang.md` sebagai **knowledge file** (atau copy-paste `SKILL.md` ke **instructions** dan upload sisanya sebagai knowledge).
 
 ### Manual
 
@@ -186,9 +180,11 @@ Upload **semua file `.md`** di `plugins/humanizer-id/skills/humanizer-id/` sebag
 git clone https://github.com/diasera/humanizer-id.git
 ```
 
-Terus pakai folder-nya di mana aja kamu butuh.
+> [!IMPORTANT]
+> Pastiin folder `modes/` dan `references/` selalu ikut bareng `SKILL.md`, jangan cuma copy `SKILL.md` doang.
 
 ---
+
 ## 💡 Contoh Prompt
 
 ```text
@@ -237,35 +233,34 @@ gaul (level 2), nama dan angka jangan berubah: [tempel teks]
 
 ```
 humanizer-id/
-├── .agents/plugins/marketplace.json   # marketplace ChatGPT / Codex
-├── .claude-plugin/marketplace.json    # marketplace Claude Code
-├── plugins/
-│   └── humanizer-id/                  # plugin-nya
-│       ├── plugin.json                # manifest Antigravity
-│       ├── .codex-plugin/plugin.json  # manifest ChatGPT / Codex
-│       ├── .claude-plugin/plugin.json # manifest Claude Code
-│       ├── LICENSE
-│       └── skills/
-│           └── humanizer-id/
-│               ├── SKILL.md           # inti skill + pilih mode (dibaca agent)
-│               ├── modes/
-│               │   ├── cerita.md      # novel, Wattpad, fanfic
-│               │   ├── humanizer.md   # ubah teks kaku/AI jadi natural
-│               │   ├── sosmed.md      # caption, thread, script video
-│               │   ├── copywriting.md # iklan, promo, deskripsi produk
-│               │   ├── chatbot.md     # persona chatbot / CS
-│               │   ├── chat-harian.md # balas WA, DM, komen
-│               │   ├── artikel.md     # blog, artikel, newsletter
-│               │   └── terjemahan.md  # baku/Inggris → gaul
-│               └── references/
-│                   └── kamus-slang.md # kamus slang dan singkatan
-├── README.md                          # yang lagi kamu baca
-├── CONTRIBUTING.md                    # cara nambah slang / mode
-├── CHANGELOG.md                       # riwayat versi
-└── LICENSE                            # MIT
+├── SKILL.md                          # inti skill + pilih mode (source of truth)
+├── modes/
+│   ├── cerita.md                     # novel, Wattpad, fanfic
+│   ├── humanizer.md                  # ubah teks kaku/AI jadi natural
+│   ├── sosmed.md                     # caption, thread, script video
+│   ├── copywriting.md                # iklan, promo, deskripsi produk
+│   ├── chatbot.md                    # persona chatbot / CS
+│   ├── chat-harian.md                # balas WA, DM, komen
+│   ├── artikel.md                    # blog, artikel, newsletter
+│   └── terjemahan.md                 # baku/Inggris → gaul
+├── references/
+│   └── kamus-slang.md                # kamus slang dan singkatan 2026
+├── .claude-plugin/
+│   ├── plugin.json                   # manifest plugin (Claude Code & ChatGPT)
+│   └── marketplace.json              # marketplace Claude Code
+├── .cursor-plugin/
+│   └── plugin.json                   # manifest plugin Cursor
+├── agents/
+│   └── openai.yaml                   # metadata OpenAI / Codex
+├── package.json                      # manifest paket Pi
+├── README.md                         # yang lagi kamu baca
+├── CONTRIBUTING.md                   # cara nambah slang / mode
+├── CHANGELOG.md                      # riwayat versi
+└── LICENSE                           # MIT
 ```
 
 ---
+
 ## 📚 Isi Skill
 
 <details>
